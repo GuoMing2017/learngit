@@ -6,4 +6,4 @@ Git tracks changes of files.
 
 Test remote update.
 
-creating a new branch is quick.
+creating a new branch is quick & simple.
